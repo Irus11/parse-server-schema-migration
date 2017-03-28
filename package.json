@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "superagent": "^3.5.2",
+    "yargs": "^7.0.2"
+  },
+  "name": "parse-schema-migration",
+  "version": "0.0.1",
+  "description": "copies your parse-server schema to another parse-server",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Dan Rosenshain"
+}
